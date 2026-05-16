@@ -1,0 +1,910 @@
+state,condition,measure_id,measure_name,score,start_date,end_date
+AK,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,140.0,2023-04-01,2024-03-31
+AK,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),157.0,2023-04-01,2024-03-31
+AK,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),136.0,2023-04-01,2024-03-31
+AK,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),136.0,2023-04-01,2024-03-31
+AK,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,196.0,2023-04-01,2024-03-31
+AK,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),230.0,2023-04-01,2024-03-31
+AK,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),182.0,2023-04-01,2024-03-31
+AK,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),200.0,2023-04-01,2024-03-31
+AK,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,2.0,2023-01-01,2023-12-31
+AK,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,60.0,2023-04-01,2024-03-31
+AK,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,87.0,2023-01-01,2023-12-31
+AK,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,58.0,2023-04-01,2024-03-31
+AK,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,65.0,2023-04-01,2024-03-31
+AK,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,79.0,2023-04-01,2024-03-31
+AK,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,81.0,2023-04-01,2024-03-31
+AK,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,89.0,2023-04-01,2024-03-31
+AL,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,145.0,2023-04-01,2024-03-31
+AL,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),172.0,2023-04-01,2024-03-31
+AL,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),119.0,2023-04-01,2024-03-31
+AL,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),168.0,2023-04-01,2024-03-31
+AL,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),191.0,2023-04-01,2024-03-31
+AL,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,226.0,2023-04-01,2024-03-31
+AL,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),230.0,2023-04-01,2024-03-31
+AL,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),192.0,2023-04-01,2024-03-31
+AL,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),244.0,2023-04-01,2024-03-31
+AL,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),347.0,2023-04-01,2024-03-31
+AL,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,3.0,2023-01-01,2023-12-31
+AL,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,67.0,2023-04-01,2024-03-31
+AL,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,93.0,2023-01-01,2023-12-31
+AL,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,61.0,2023-04-01,2024-03-31
+AL,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,70.0,2023-04-01,2024-03-31
+AL,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,86.0,2023-04-01,2024-03-31
+AL,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,80.0,2023-04-01,2024-03-31
+AL,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,92.0,2023-04-01,2024-03-31
+AR,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,133.0,2023-04-01,2024-03-31
+AR,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),166.0,2023-04-01,2024-03-31
+AR,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),114.0,2023-04-01,2024-03-31
+AR,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),149.0,2023-04-01,2024-03-31
+AR,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),206.0,2023-04-01,2024-03-31
+AR,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,203.0,2023-04-01,2024-03-31
+AR,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),232.0,2023-04-01,2024-03-31
+AR,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),167.0,2023-04-01,2024-03-31
+AR,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),264.0,2023-04-01,2024-03-31
+AR,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),212.0,2023-04-01,2024-03-31
+AR,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,2.0,2023-01-01,2023-12-31
+AR,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,72.0,2023-04-01,2024-03-31
+AR,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,92.0,2023-01-01,2023-12-31
+AR,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,64.0,2023-04-01,2024-03-31
+AR,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,77.0,2023-04-01,2024-03-31
+AR,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,87.0,2023-04-01,2024-03-31
+AR,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,82.0,2023-04-01,2024-03-31
+AR,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,90.0,2023-04-01,2024-03-31
+AZ,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,168.0,2023-04-01,2024-03-31
+AZ,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),205.0,2023-04-01,2024-03-31
+AZ,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),130.0,2023-04-01,2024-03-31
+AZ,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),148.0,2023-04-01,2024-03-31
+AZ,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),200.0,2023-04-01,2024-03-31
+AZ,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,262.0,2023-04-01,2024-03-31
+AZ,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),266.0,2023-04-01,2024-03-31
+AZ,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),206.0,2023-04-01,2024-03-31
+AZ,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),247.0,2023-04-01,2024-03-31
+AZ,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),332.0,2023-04-01,2024-03-31
+AZ,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,3.0,2023-01-01,2023-12-31
+AZ,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,68.0,2023-04-01,2024-03-31
+AZ,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,91.0,2023-01-01,2023-12-31
+AZ,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,55.0,2023-04-01,2024-03-31
+AZ,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,63.0,2023-04-01,2024-03-31
+AZ,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,79.0,2023-04-01,2024-03-31
+AZ,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,75.0,2023-04-01,2024-03-31
+AZ,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,88.0,2023-04-01,2024-03-31
+CA,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,184.0,2023-04-01,2024-03-31
+CA,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),193.0,2023-04-01,2024-03-31
+CA,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),151.0,2023-04-01,2024-03-31
+CA,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),164.0,2023-04-01,2024-03-31
+CA,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),206.0,2023-04-01,2024-03-31
+CA,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,270.0,2023-04-01,2024-03-31
+CA,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),291.0,2023-04-01,2024-03-31
+CA,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),248.0,2023-04-01,2024-03-31
+CA,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),251.0,2023-04-01,2024-03-31
+CA,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),286.0,2023-04-01,2024-03-31
+CA,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,2.0,2023-01-01,2023-12-31
+CA,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,73.0,2023-04-01,2024-03-31
+CA,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,91.0,2023-01-01,2023-12-31
+CA,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,67.0,2023-04-01,2024-03-31
+CA,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,74.0,2023-04-01,2024-03-31
+CA,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,87.0,2023-04-01,2024-03-31
+CA,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,82.0,2023-04-01,2024-03-31
+CA,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,93.0,2023-04-01,2024-03-31
+CO,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,133.0,2023-04-01,2024-03-31
+CO,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),135.0,2023-04-01,2024-03-31
+CO,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),123.0,2023-04-01,2024-03-31
+CO,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),152.0,2023-04-01,2024-03-31
+CO,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),161.0,2023-04-01,2024-03-31
+CO,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,240.0,2023-04-01,2024-03-31
+CO,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),269.0,2023-04-01,2024-03-31
+CO,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),223.0,2023-04-01,2024-03-31
+CO,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),277.0,2023-04-01,2024-03-31
+CO,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),248.0,2023-04-01,2024-03-31
+CO,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,1.0,2023-01-01,2023-12-31
+CO,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,70.0,2023-04-01,2024-03-31
+CO,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,95.0,2023-01-01,2023-12-31
+CO,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,73.0,2023-04-01,2024-03-31
+CO,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,80.0,2023-04-01,2024-03-31
+CO,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,90.0,2023-04-01,2024-03-31
+CO,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,87.0,2023-04-01,2024-03-31
+CO,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,95.0,2023-04-01,2024-03-31
+CT,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,193.0,2023-04-01,2024-03-31
+CT,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),203.0,2023-04-01,2024-03-31
+CT,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),163.0,2023-04-01,2024-03-31
+CT,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),204.0,2023-04-01,2024-03-31
+CT,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),192.0,2023-04-01,2024-03-31
+CT,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,272.0,2023-04-01,2024-03-31
+CT,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),277.0,2023-04-01,2024-03-31
+CT,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),376.0,2023-04-01,2024-03-31
+CT,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),279.0,2023-04-01,2024-03-31
+CT,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),245.0,2023-04-01,2024-03-31
+CT,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,2.0,2023-01-01,2023-12-31
+CT,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,72.0,2023-04-01,2024-03-31
+CT,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,96.0,2023-01-01,2023-12-31
+CT,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,57.0,2023-04-01,2024-03-31
+CT,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,63.0,2023-04-01,2024-03-31
+CT,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,85.0,2023-04-01,2024-03-31
+CT,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,77.0,2023-04-01,2024-03-31
+CT,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,92.0,2023-04-01,2024-03-31
+DC,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,310.0,2023-04-01,2024-03-31
+DC,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),292.0,2023-04-01,2024-03-31
+DC,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),304.0,2023-04-01,2024-03-31
+DC,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),373.0,2023-04-01,2024-03-31
+DC,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,361.0,2023-04-01,2024-03-31
+DC,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),359.0,2023-04-01,2024-03-31
+DC,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),352.0,2023-04-01,2024-03-31
+DC,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),446.0,2023-04-01,2024-03-31
+DC,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,6.0,2023-01-01,2023-12-31
+DC,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,26.0,2023-04-01,2024-03-31
+DC,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,94.0,2023-01-01,2023-12-31
+DC,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,49.0,2023-04-01,2024-03-31
+DC,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,58.0,2023-04-01,2024-03-31
+DC,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,88.0,2023-04-01,2024-03-31
+DC,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,72.0,2023-04-01,2024-03-31
+DC,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,84.0,2023-04-01,2024-03-31
+DE,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,217.0,2023-04-01,2024-03-31
+DE,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),218.0,2023-04-01,2024-03-31
+DE,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),170.0,2023-04-01,2024-03-31
+DE,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),283.0,2023-04-01,2024-03-31
+DE,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,418.0,2023-04-01,2024-03-31
+DE,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),415.0,2023-04-01,2024-03-31
+DE,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),288.0,2023-04-01,2024-03-31
+DE,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),522.0,2023-04-01,2024-03-31
+DE,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,5.0,2023-01-01,2023-12-31
+DE,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,73.0,2023-04-01,2024-03-31
+DE,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,96.0,2023-01-01,2023-12-31
+DE,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,48.0,2023-04-01,2024-03-31
+DE,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,57.0,2023-04-01,2024-03-31
+DE,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,81.0,2023-04-01,2024-03-31
+DE,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,76.0,2023-04-01,2024-03-31
+DE,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,82.0,2023-04-01,2024-03-31
+FL,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,158.0,2023-04-01,2024-03-31
+FL,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),158.0,2023-04-01,2024-03-31
+FL,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),141.0,2023-04-01,2024-03-31
+FL,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),144.0,2023-04-01,2024-03-31
+FL,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),169.0,2023-04-01,2024-03-31
+FL,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,246.0,2023-04-01,2024-03-31
+FL,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),241.0,2023-04-01,2024-03-31
+FL,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),209.0,2023-04-01,2024-03-31
+FL,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),228.0,2023-04-01,2024-03-31
+FL,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),266.0,2023-04-01,2024-03-31
+FL,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,1.0,2023-01-01,2023-12-31
+FL,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,69.0,2023-04-01,2024-03-31
+FL,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,89.0,2023-01-01,2023-12-31
+FL,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,68.0,2023-04-01,2024-03-31
+FL,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,73.0,2023-04-01,2024-03-31
+FL,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,90.0,2023-04-01,2024-03-31
+FL,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,83.0,2023-04-01,2024-03-31
+FL,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,94.0,2023-04-01,2024-03-31
+GA,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,160.0,2023-04-01,2024-03-31
+GA,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),194.0,2023-04-01,2024-03-31
+GA,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),116.0,2023-04-01,2024-03-31
+GA,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),157.0,2023-04-01,2024-03-31
+GA,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),218.0,2023-04-01,2024-03-31
+GA,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,308.0,2023-04-01,2024-03-31
+GA,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),402.0,2023-04-01,2024-03-31
+GA,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),228.0,2023-04-01,2024-03-31
+GA,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),288.0,2023-04-01,2024-03-31
+GA,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),366.0,2023-04-01,2024-03-31
+GA,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,2.0,2023-01-01,2023-12-31
+GA,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,69.0,2023-04-01,2024-03-31
+GA,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,90.0,2023-01-01,2023-12-31
+GA,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,57.0,2023-04-01,2024-03-31
+GA,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,68.0,2023-04-01,2024-03-31
+GA,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,83.0,2023-04-01,2024-03-31
+GA,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,78.0,2023-04-01,2024-03-31
+GA,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,86.0,2023-04-01,2024-03-31
+HI,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,115.0,2023-04-01,2024-03-31
+HI,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),157.0,2023-04-01,2024-03-31
+HI,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),84.0,2023-04-01,2024-03-31
+HI,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),155.0,2023-04-01,2024-03-31
+HI,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),202.0,2023-04-01,2024-03-31
+HI,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,182.0,2023-04-01,2024-03-31
+HI,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),207.0,2023-04-01,2024-03-31
+HI,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),110.0,2023-04-01,2024-03-31
+HI,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),221.0,2023-04-01,2024-03-31
+HI,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),263.0,2023-04-01,2024-03-31
+HI,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,2.0,2023-01-01,2023-12-31
+HI,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,67.0,2023-04-01,2024-03-31
+HI,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,93.0,2023-01-01,2023-12-31
+HI,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,71.0,2023-04-01,2024-03-31
+HI,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,78.0,2023-04-01,2024-03-31
+HI,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,88.0,2023-04-01,2024-03-31
+HI,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,89.0,2023-04-01,2024-03-31
+HI,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,92.0,2023-04-01,2024-03-31
+IA,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,120.0,2023-04-01,2024-03-31
+IA,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),184.0,2023-04-01,2024-03-31
+IA,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),114.0,2023-04-01,2024-03-31
+IA,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),158.0,2023-04-01,2024-03-31
+IA,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),193.0,2023-04-01,2024-03-31
+IA,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,201.0,2023-04-01,2024-03-31
+IA,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),218.0,2023-04-01,2024-03-31
+IA,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),197.0,2023-04-01,2024-03-31
+IA,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),217.0,2023-04-01,2024-03-31
+IA,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),290.0,2023-04-01,2024-03-31
+IA,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,3.0,2023-01-01,2023-12-31
+IA,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,69.0,2023-04-01,2024-03-31
+IA,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,97.0,2023-01-01,2023-12-31
+IA,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,63.0,2023-04-01,2024-03-31
+IA,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,70.0,2023-04-01,2024-03-31
+IA,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,80.0,2023-04-01,2024-03-31
+IA,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,80.0,2023-04-01,2024-03-31
+IA,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,93.0,2023-04-01,2024-03-31
+ID,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,142.0,2023-04-01,2024-03-31
+ID,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),152.0,2023-04-01,2024-03-31
+ID,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),118.0,2023-04-01,2024-03-31
+ID,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),177.0,2023-04-01,2024-03-31
+ID,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),170.0,2023-04-01,2024-03-31
+ID,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,227.0,2023-04-01,2024-03-31
+ID,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),250.0,2023-04-01,2024-03-31
+ID,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),192.0,2023-04-01,2024-03-31
+ID,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),210.0,2023-04-01,2024-03-31
+ID,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),281.0,2023-04-01,2024-03-31
+ID,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,1.0,2023-01-01,2023-12-31
+ID,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,68.0,2023-04-01,2024-03-31
+ID,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,97.0,2023-01-01,2023-12-31
+ID,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,59.0,2023-04-01,2024-03-31
+ID,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,66.0,2023-04-01,2024-03-31
+ID,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,84.0,2023-04-01,2024-03-31
+ID,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,79.0,2023-04-01,2024-03-31
+ID,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,88.0,2023-04-01,2024-03-31
+IL,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,173.0,2023-04-01,2024-03-31
+IL,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),219.0,2023-04-01,2024-03-31
+IL,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),127.0,2023-04-01,2024-03-31
+IL,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),187.0,2023-04-01,2024-03-31
+IL,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),238.0,2023-04-01,2024-03-31
+IL,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,320.0,2023-04-01,2024-03-31
+IL,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),352.0,2023-04-01,2024-03-31
+IL,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),298.0,2023-04-01,2024-03-31
+IL,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),337.0,2023-04-01,2024-03-31
+IL,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),365.0,2023-04-01,2024-03-31
+IL,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,4.0,2023-01-01,2023-12-31
+IL,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,71.0,2023-04-01,2024-03-31
+IL,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,94.0,2023-01-01,2023-12-31
+IL,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,61.0,2023-04-01,2024-03-31
+IL,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,71.0,2023-04-01,2024-03-31
+IL,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,83.0,2023-04-01,2024-03-31
+IL,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,80.0,2023-04-01,2024-03-31
+IL,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,91.0,2023-04-01,2024-03-31
+IN,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,125.0,2023-04-01,2024-03-31
+IN,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),182.0,2023-04-01,2024-03-31
+IN,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),116.0,2023-04-01,2024-03-31
+IN,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),159.0,2023-04-01,2024-03-31
+IN,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),111.0,2023-04-01,2024-03-31
+IN,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,197.0,2023-04-01,2024-03-31
+IN,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),284.0,2023-04-01,2024-03-31
+IN,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),195.0,2023-04-01,2024-03-31
+IN,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),220.0,2023-04-01,2024-03-31
+IN,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),151.0,2023-04-01,2024-03-31
+IN,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,2.0,2023-01-01,2023-12-31
+IN,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,77.0,2023-04-01,2024-03-31
+IN,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,94.0,2023-01-01,2023-12-31
+IN,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,59.0,2023-04-01,2024-03-31
+IN,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,66.0,2023-04-01,2024-03-31
+IN,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,82.0,2023-04-01,2024-03-31
+IN,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,81.0,2023-04-01,2024-03-31
+IN,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,90.0,2023-04-01,2024-03-31
+KS,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,120.0,2023-04-01,2024-03-31
+KS,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),144.0,2023-04-01,2024-03-31
+KS,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),117.0,2023-04-01,2024-03-31
+KS,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),170.0,2023-04-01,2024-03-31
+KS,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),164.0,2023-04-01,2024-03-31
+KS,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,176.0,2023-04-01,2024-03-31
+KS,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),208.0,2023-04-01,2024-03-31
+KS,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),172.0,2023-04-01,2024-03-31
+KS,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),244.0,2023-04-01,2024-03-31
+KS,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),230.0,2023-04-01,2024-03-31
+KS,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,2.0,2023-01-01,2023-12-31
+KS,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,70.0,2023-04-01,2024-03-31
+KS,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,94.0,2023-01-01,2023-12-31
+KS,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,59.0,2023-04-01,2024-03-31
+KS,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,60.0,2023-04-01,2024-03-31
+KS,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,77.0,2023-04-01,2024-03-31
+KS,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,80.0,2023-04-01,2024-03-31
+KS,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,90.0,2023-04-01,2024-03-31
+KY,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,153.0,2023-04-01,2024-03-31
+KY,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),193.0,2023-04-01,2024-03-31
+KY,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),126.0,2023-04-01,2024-03-31
+KY,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),169.0,2023-04-01,2024-03-31
+KY,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),178.0,2023-04-01,2024-03-31
+KY,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,214.0,2023-04-01,2024-03-31
+KY,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),267.0,2023-04-01,2024-03-31
+KY,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),176.0,2023-04-01,2024-03-31
+KY,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),208.0,2023-04-01,2024-03-31
+KY,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),230.0,2023-04-01,2024-03-31
+KY,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,2.0,2023-01-01,2023-12-31
+KY,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,70.0,2023-04-01,2024-03-31
+KY,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,89.0,2023-01-01,2023-12-31
+KY,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,63.0,2023-04-01,2024-03-31
+KY,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,73.0,2023-04-01,2024-03-31
+KY,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,85.0,2023-04-01,2024-03-31
+KY,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,79.0,2023-04-01,2024-03-31
+KY,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,93.0,2023-04-01,2024-03-31
+LA,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,133.0,2023-04-01,2024-03-31
+LA,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),168.0,2023-04-01,2024-03-31
+LA,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),110.0,2023-04-01,2024-03-31
+LA,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),144.0,2023-04-01,2024-03-31
+LA,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),182.0,2023-04-01,2024-03-31
+LA,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,244.0,2023-04-01,2024-03-31
+LA,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),320.0,2023-04-01,2024-03-31
+LA,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),200.0,2023-04-01,2024-03-31
+LA,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),256.0,2023-04-01,2024-03-31
+LA,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),335.0,2023-04-01,2024-03-31
+LA,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,2.0,2023-01-01,2023-12-31
+LA,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,66.0,2023-04-01,2024-03-31
+LA,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,91.0,2023-01-01,2023-12-31
+LA,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,64.0,2023-04-01,2024-03-31
+LA,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,73.0,2023-04-01,2024-03-31
+LA,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,87.0,2023-04-01,2024-03-31
+LA,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,80.0,2023-04-01,2024-03-31
+LA,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,93.0,2023-04-01,2024-03-31
+MA,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,216.0,2023-04-01,2024-03-31
+MA,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),239.0,2023-04-01,2024-03-31
+MA,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),154.0,2023-04-01,2024-03-31
+MA,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),201.0,2023-04-01,2024-03-31
+MA,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),245.0,2023-04-01,2024-03-31
+MA,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,349.0,2023-04-01,2024-03-31
+MA,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),441.0,2023-04-01,2024-03-31
+MA,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),318.0,2023-04-01,2024-03-31
+MA,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),314.0,2023-04-01,2024-03-31
+MA,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),354.0,2023-04-01,2024-03-31
+MA,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,5.0,2023-01-01,2023-12-31
+MA,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,68.0,2023-04-01,2024-03-31
+MA,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,96.0,2023-01-01,2023-12-31
+MA,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,58.0,2023-04-01,2024-03-31
+MA,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,68.0,2023-04-01,2024-03-31
+MA,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,81.0,2023-04-01,2024-03-31
+MA,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,78.0,2023-04-01,2024-03-31
+MA,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,90.0,2023-04-01,2024-03-31
+MD,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,251.0,2023-04-01,2024-03-31
+MD,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),266.0,2023-04-01,2024-03-31
+MD,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),154.0,2023-04-01,2024-03-31
+MD,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),245.0,2023-04-01,2024-03-31
+MD,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),234.0,2023-04-01,2024-03-31
+MD,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,431.0,2023-04-01,2024-03-31
+MD,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),526.0,2023-04-01,2024-03-31
+MD,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),221.0,2023-04-01,2024-03-31
+MD,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),347.0,2023-04-01,2024-03-31
+MD,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),470.0,2023-04-01,2024-03-31
+MD,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,4.0,2023-01-01,2023-12-31
+MD,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,67.0,2023-04-01,2024-03-31
+MD,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,95.0,2023-01-01,2023-12-31
+MD,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,66.0,2023-04-01,2024-03-31
+MD,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,82.0,2023-04-01,2024-03-31
+MD,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,87.0,2023-04-01,2024-03-31
+MD,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,81.0,2023-04-01,2024-03-31
+MD,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,91.0,2023-04-01,2024-03-31
+ME,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,174.0,2023-04-01,2024-03-31
+ME,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),196.0,2023-04-01,2024-03-31
+ME,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),171.0,2023-04-01,2024-03-31
+ME,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),198.0,2023-04-01,2024-03-31
+ME,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),267.0,2023-04-01,2024-03-31
+ME,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,326.0,2023-04-01,2024-03-31
+ME,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),440.0,2023-04-01,2024-03-31
+ME,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),346.0,2023-04-01,2024-03-31
+ME,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),212.0,2023-04-01,2024-03-31
+ME,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),451.0,2023-04-01,2024-03-31
+ME,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,3.0,2023-01-01,2023-12-31
+ME,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,56.0,2023-04-01,2024-03-31
+ME,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,94.0,2023-01-01,2023-12-31
+ME,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,72.0,2023-04-01,2024-03-31
+ME,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,79.0,2023-04-01,2024-03-31
+ME,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,86.0,2023-04-01,2024-03-31
+ME,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,86.0,2023-04-01,2024-03-31
+ME,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,95.0,2023-04-01,2024-03-31
+MI,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,164.0,2023-04-01,2024-03-31
+MI,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),183.0,2023-04-01,2024-03-31
+MI,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),140.0,2023-04-01,2024-03-31
+MI,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),178.0,2023-04-01,2024-03-31
+MI,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),212.0,2023-04-01,2024-03-31
+MI,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,282.0,2023-04-01,2024-03-31
+MI,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),316.0,2023-04-01,2024-03-31
+MI,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),265.0,2023-04-01,2024-03-31
+MI,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),270.0,2023-04-01,2024-03-31
+MI,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),320.0,2023-04-01,2024-03-31
+MI,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,3.0,2023-01-01,2023-12-31
+MI,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,73.0,2023-04-01,2024-03-31
+MI,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,92.0,2023-01-01,2023-12-31
+MI,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,59.0,2023-04-01,2024-03-31
+MI,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,69.0,2023-04-01,2024-03-31
+MI,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,85.0,2023-04-01,2024-03-31
+MI,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,78.0,2023-04-01,2024-03-31
+MI,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,91.0,2023-04-01,2024-03-31
+MN,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,125.0,2023-04-01,2024-03-31
+MN,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),177.0,2023-04-01,2024-03-31
+MN,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),123.0,2023-04-01,2024-03-31
+MN,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),117.0,2023-04-01,2024-03-31
+MN,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),209.0,2023-04-01,2024-03-31
+MN,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,200.0,2023-04-01,2024-03-31
+MN,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),307.0,2023-04-01,2024-03-31
+MN,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),192.0,2023-04-01,2024-03-31
+MN,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),174.0,2023-04-01,2024-03-31
+MN,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),336.0,2023-04-01,2024-03-31
+MN,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,3.0,2023-01-01,2023-12-31
+MN,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,70.0,2023-04-01,2024-03-31
+MN,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,95.0,2023-01-01,2023-12-31
+MN,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,57.0,2023-04-01,2024-03-31
+MN,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,60.0,2023-04-01,2024-03-31
+MN,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,75.0,2023-04-01,2024-03-31
+MN,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,78.0,2023-04-01,2024-03-31
+MN,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,91.0,2023-04-01,2024-03-31
+MO,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,155.0,2023-04-01,2024-03-31
+MO,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),209.0,2023-04-01,2024-03-31
+MO,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),125.0,2023-04-01,2024-03-31
+MO,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),177.0,2023-04-01,2024-03-31
+MO,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),200.0,2023-04-01,2024-03-31
+MO,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,257.0,2023-04-01,2024-03-31
+MO,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),328.0,2023-04-01,2024-03-31
+MO,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),198.0,2023-04-01,2024-03-31
+MO,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),274.0,2023-04-01,2024-03-31
+MO,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),322.0,2023-04-01,2024-03-31
+MO,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,4.0,2023-01-01,2023-12-31
+MO,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,77.0,2023-04-01,2024-03-31
+MO,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,92.0,2023-01-01,2023-12-31
+MO,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,58.0,2023-04-01,2024-03-31
+MO,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,66.0,2023-04-01,2024-03-31
+MO,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,83.0,2023-04-01,2024-03-31
+MO,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,77.0,2023-04-01,2024-03-31
+MO,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,92.0,2023-04-01,2024-03-31
+MS,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,127.0,2023-04-01,2024-03-31
+MS,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),169.0,2023-04-01,2024-03-31
+MS,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),108.0,2023-04-01,2024-03-31
+MS,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),144.0,2023-04-01,2024-03-31
+MS,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),184.0,2023-04-01,2024-03-31
+MS,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,181.0,2023-04-01,2024-03-31
+MS,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),211.0,2023-04-01,2024-03-31
+MS,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),150.0,2023-04-01,2024-03-31
+MS,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),208.0,2023-04-01,2024-03-31
+MS,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),272.0,2023-04-01,2024-03-31
+MS,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,4.0,2023-01-01,2023-12-31
+MS,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,73.0,2023-04-01,2024-03-31
+MS,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,94.0,2023-01-01,2023-12-31
+MS,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,63.0,2023-04-01,2024-03-31
+MS,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,71.0,2023-04-01,2024-03-31
+MS,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,85.0,2023-04-01,2024-03-31
+MS,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,80.0,2023-04-01,2024-03-31
+MS,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,91.0,2023-04-01,2024-03-31
+MT,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,127.0,2023-04-01,2024-03-31
+MT,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),166.0,2023-04-01,2024-03-31
+MT,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),124.0,2023-04-01,2024-03-31
+MT,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),178.0,2023-04-01,2024-03-31
+MT,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,172.0,2023-04-01,2024-03-31
+MT,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),185.0,2023-04-01,2024-03-31
+MT,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),168.0,2023-04-01,2024-03-31
+MT,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),222.0,2023-04-01,2024-03-31
+MT,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,2.0,2023-01-01,2023-12-31
+MT,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,62.0,2023-04-01,2024-03-31
+MT,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,94.0,2023-01-01,2023-12-31
+MT,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,71.0,2023-04-01,2024-03-31
+MT,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,77.0,2023-04-01,2024-03-31
+MT,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,86.0,2023-04-01,2024-03-31
+MT,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,87.0,2023-04-01,2024-03-31
+MT,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,94.0,2023-04-01,2024-03-31
+NC,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,192.0,2023-04-01,2024-03-31
+NC,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),194.0,2023-04-01,2024-03-31
+NC,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),145.0,2023-04-01,2024-03-31
+NC,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),179.0,2023-04-01,2024-03-31
+NC,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),207.0,2023-04-01,2024-03-31
+NC,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,312.0,2023-04-01,2024-03-31
+NC,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),380.0,2023-04-01,2024-03-31
+NC,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),300.0,2023-04-01,2024-03-31
+NC,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),298.0,2023-04-01,2024-03-31
+NC,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),312.0,2023-04-01,2024-03-31
+NC,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,3.0,2023-01-01,2023-12-31
+NC,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,71.0,2023-04-01,2024-03-31
+NC,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,94.0,2023-01-01,2023-12-31
+NC,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,61.0,2023-04-01,2024-03-31
+NC,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,70.0,2023-04-01,2024-03-31
+NC,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,84.0,2023-04-01,2024-03-31
+NC,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,79.0,2023-04-01,2024-03-31
+NC,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,93.0,2023-04-01,2024-03-31
+ND,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,110.0,2023-04-01,2024-03-31
+ND,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),101.0,2023-04-01,2024-03-31
+ND,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),165.0,2023-04-01,2024-03-31
+ND,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),188.0,2023-04-01,2024-03-31
+ND,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,147.0,2023-04-01,2024-03-31
+ND,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),138.0,2023-04-01,2024-03-31
+ND,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),167.0,2023-04-01,2024-03-31
+ND,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),290.0,2023-04-01,2024-03-31
+ND,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,3.0,2023-01-01,2023-12-31
+ND,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,60.0,2023-04-01,2024-03-31
+ND,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,97.0,2023-01-01,2023-12-31
+ND,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,54.0,2023-04-01,2024-03-31
+ND,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,57.0,2023-04-01,2024-03-31
+ND,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,75.0,2023-04-01,2024-03-31
+ND,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,77.0,2023-04-01,2024-03-31
+ND,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,89.0,2023-04-01,2024-03-31
+NE,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,114.0,2023-04-01,2024-03-31
+NE,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),109.0,2023-04-01,2024-03-31
+NE,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),155.0,2023-04-01,2024-03-31
+NE,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),161.0,2023-04-01,2024-03-31
+NE,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,157.0,2023-04-01,2024-03-31
+NE,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),152.0,2023-04-01,2024-03-31
+NE,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),195.0,2023-04-01,2024-03-31
+NE,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),211.0,2023-04-01,2024-03-31
+NE,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,1.0,2023-01-01,2023-12-31
+NE,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,67.0,2023-04-01,2024-03-31
+NE,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,92.0,2023-01-01,2023-12-31
+NE,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,64.0,2023-04-01,2024-03-31
+NE,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,73.0,2023-04-01,2024-03-31
+NE,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,89.0,2023-04-01,2024-03-31
+NE,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,80.0,2023-04-01,2024-03-31
+NE,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,89.0,2023-04-01,2024-03-31
+NH,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,160.0,2023-04-01,2024-03-31
+NH,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),200.0,2023-04-01,2024-03-31
+NH,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),128.0,2023-04-01,2024-03-31
+NH,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),209.0,2023-04-01,2024-03-31
+NH,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),169.0,2023-04-01,2024-03-31
+NH,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,270.0,2023-04-01,2024-03-31
+NH,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),278.0,2023-04-01,2024-03-31
+NH,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),210.0,2023-04-01,2024-03-31
+NH,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),357.0,2023-04-01,2024-03-31
+NH,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),172.0,2023-04-01,2024-03-31
+NH,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,3.0,2023-01-01,2023-12-31
+NH,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,61.0,2023-04-01,2024-03-31
+NH,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,93.0,2023-01-01,2023-12-31
+NH,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,57.0,2023-04-01,2024-03-31
+NH,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,66.0,2023-04-01,2024-03-31
+NH,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,72.0,2023-04-01,2024-03-31
+NH,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,79.0,2023-04-01,2024-03-31
+NH,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,92.0,2023-04-01,2024-03-31
+NJ,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,187.0,2023-04-01,2024-03-31
+NJ,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),192.0,2023-04-01,2024-03-31
+NJ,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),145.0,2023-04-01,2024-03-31
+NJ,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),179.0,2023-04-01,2024-03-31
+NJ,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),196.0,2023-04-01,2024-03-31
+NJ,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,303.0,2023-04-01,2024-03-31
+NJ,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),358.0,2023-04-01,2024-03-31
+NJ,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),176.0,2023-04-01,2024-03-31
+NJ,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),328.0,2023-04-01,2024-03-31
+NJ,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),296.0,2023-04-01,2024-03-31
+NJ,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,2.0,2023-01-01,2023-12-31
+NJ,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,74.0,2023-04-01,2024-03-31
+NJ,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,90.0,2023-01-01,2023-12-31
+NJ,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,69.0,2023-04-01,2024-03-31
+NJ,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,77.0,2023-04-01,2024-03-31
+NJ,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,90.0,2023-04-01,2024-03-31
+NJ,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,84.0,2023-04-01,2024-03-31
+NJ,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,93.0,2023-04-01,2024-03-31
+NM,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,159.0,2023-04-01,2024-03-31
+NM,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),172.0,2023-04-01,2024-03-31
+NM,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),134.0,2023-04-01,2024-03-31
+NM,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),183.0,2023-04-01,2024-03-31
+NM,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),298.0,2023-04-01,2024-03-31
+NM,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,279.0,2023-04-01,2024-03-31
+NM,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),221.0,2023-04-01,2024-03-31
+NM,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),262.0,2023-04-01,2024-03-31
+NM,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),296.0,2023-04-01,2024-03-31
+NM,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),513.0,2023-04-01,2024-03-31
+NM,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,3.0,2023-01-01,2023-12-31
+NM,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,41.0,2023-04-01,2024-03-31
+NM,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,79.0,2023-01-01,2023-12-31
+NM,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,48.0,2023-04-01,2024-03-31
+NM,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,63.0,2023-04-01,2024-03-31
+NM,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,75.0,2023-04-01,2024-03-31
+NM,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,73.0,2023-04-01,2024-03-31
+NM,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,83.0,2023-04-01,2024-03-31
+NV,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,144.0,2023-04-01,2024-03-31
+NV,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),155.0,2023-04-01,2024-03-31
+NV,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),120.0,2023-04-01,2024-03-31
+NV,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),144.0,2023-04-01,2024-03-31
+NV,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),168.0,2023-04-01,2024-03-31
+NV,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,270.0,2023-04-01,2024-03-31
+NV,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),238.0,2023-04-01,2024-03-31
+NV,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),236.0,2023-04-01,2024-03-31
+NV,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),219.0,2023-04-01,2024-03-31
+NV,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),309.0,2023-04-01,2024-03-31
+NV,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,1.0,2023-01-01,2023-12-31
+NV,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,67.0,2023-04-01,2024-03-31
+NV,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,93.0,2023-01-01,2023-12-31
+NV,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,65.0,2023-04-01,2024-03-31
+NV,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,72.0,2023-04-01,2024-03-31
+NV,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,88.0,2023-04-01,2024-03-31
+NV,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,81.0,2023-04-01,2024-03-31
+NV,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,94.0,2023-04-01,2024-03-31
+NY,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,199.0,2023-04-01,2024-03-31
+NY,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),271.0,2023-04-01,2024-03-31
+NY,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),128.0,2023-04-01,2024-03-31
+NY,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),175.0,2023-04-01,2024-03-31
+NY,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),223.0,2023-04-01,2024-03-31
+NY,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,335.0,2023-04-01,2024-03-31
+NY,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),326.0,2023-04-01,2024-03-31
+NY,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),212.0,2023-04-01,2024-03-31
+NY,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),266.0,2023-04-01,2024-03-31
+NY,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),410.0,2023-04-01,2024-03-31
+NY,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,3.0,2023-01-01,2023-12-31
+NY,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,67.0,2023-04-01,2024-03-31
+NY,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,92.0,2023-01-01,2023-12-31
+NY,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,58.0,2023-04-01,2024-03-31
+NY,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,72.0,2023-04-01,2024-03-31
+NY,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,83.0,2023-04-01,2024-03-31
+NY,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,79.0,2023-04-01,2024-03-31
+NY,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,84.0,2023-04-01,2024-03-31
+OH,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,156.0,2023-04-01,2024-03-31
+OH,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),175.0,2023-04-01,2024-03-31
+OH,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),134.0,2023-04-01,2024-03-31
+OH,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),163.0,2023-04-01,2024-03-31
+OH,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),172.0,2023-04-01,2024-03-31
+OH,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,252.0,2023-04-01,2024-03-31
+OH,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),306.0,2023-04-01,2024-03-31
+OH,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),224.0,2023-04-01,2024-03-31
+OH,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),254.0,2023-04-01,2024-03-31
+OH,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),240.0,2023-04-01,2024-03-31
+OH,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,3.0,2023-01-01,2023-12-31
+OH,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,73.0,2023-04-01,2024-03-31
+OH,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,95.0,2023-01-01,2023-12-31
+OH,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,59.0,2023-04-01,2024-03-31
+OH,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,71.0,2023-04-01,2024-03-31
+OH,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,81.0,2023-04-01,2024-03-31
+OH,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,77.0,2023-04-01,2024-03-31
+OH,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,91.0,2023-04-01,2024-03-31
+OK,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,119.0,2023-04-01,2024-03-31
+OK,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),158.0,2023-04-01,2024-03-31
+OK,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),105.0,2023-04-01,2024-03-31
+OK,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),154.0,2023-04-01,2024-03-31
+OK,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),129.0,2023-04-01,2024-03-31
+OK,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,194.0,2023-04-01,2024-03-31
+OK,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),289.0,2023-04-01,2024-03-31
+OK,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),164.0,2023-04-01,2024-03-31
+OK,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),230.0,2023-04-01,2024-03-31
+OK,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),252.0,2023-04-01,2024-03-31
+OK,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,2.0,2023-01-01,2023-12-31
+OK,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,70.0,2023-04-01,2024-03-31
+OK,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,93.0,2023-01-01,2023-12-31
+OK,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,57.0,2023-04-01,2024-03-31
+OK,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,65.0,2023-04-01,2024-03-31
+OK,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,83.0,2023-04-01,2024-03-31
+OK,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,76.0,2023-04-01,2024-03-31
+OK,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,91.0,2023-04-01,2024-03-31
+OR,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,153.0,2023-04-01,2024-03-31
+OR,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),199.0,2023-04-01,2024-03-31
+OR,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),118.0,2023-04-01,2024-03-31
+OR,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),197.0,2023-04-01,2024-03-31
+OR,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),228.0,2023-04-01,2024-03-31
+OR,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,219.0,2023-04-01,2024-03-31
+OR,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),260.0,2023-04-01,2024-03-31
+OR,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),156.0,2023-04-01,2024-03-31
+OR,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),280.0,2023-04-01,2024-03-31
+OR,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),296.0,2023-04-01,2024-03-31
+OR,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,4.0,2023-01-01,2023-12-31
+OR,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,65.0,2023-04-01,2024-03-31
+OR,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,88.0,2023-01-01,2023-12-31
+OR,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,60.0,2023-04-01,2024-03-31
+OR,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,68.0,2023-04-01,2024-03-31
+OR,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,83.0,2023-04-01,2024-03-31
+OR,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,78.0,2023-04-01,2024-03-31
+OR,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,91.0,2023-04-01,2024-03-31
+PA,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,181.0,2023-04-01,2024-03-31
+PA,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),201.0,2023-04-01,2024-03-31
+PA,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),136.0,2023-04-01,2024-03-31
+PA,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),188.0,2023-04-01,2024-03-31
+PA,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),212.0,2023-04-01,2024-03-31
+PA,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,282.0,2023-04-01,2024-03-31
+PA,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),289.0,2023-04-01,2024-03-31
+PA,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),235.0,2023-04-01,2024-03-31
+PA,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),287.0,2023-04-01,2024-03-31
+PA,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),308.0,2023-04-01,2024-03-31
+PA,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,2.0,2023-01-01,2023-12-31
+PA,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,70.0,2023-04-01,2024-03-31
+PA,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,93.0,2023-01-01,2023-12-31
+PA,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,62.0,2023-04-01,2024-03-31
+PA,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,69.0,2023-04-01,2024-03-31
+PA,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,85.0,2023-04-01,2024-03-31
+PA,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,80.0,2023-04-01,2024-03-31
+PA,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,91.0,2023-04-01,2024-03-31
+PR,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,302.0,2023-04-01,2024-03-31
+PR,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),418.0,2023-04-01,2024-03-31
+PR,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),218.0,2023-04-01,2024-03-31
+PR,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,502.0,2023-04-01,2024-03-31
+PR,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),705.0,2023-04-01,2024-03-31
+PR,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,1.0,2023-01-01,2023-12-31
+PR,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,73.0,2023-04-01,2024-03-31
+PR,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,99.0,2023-01-01,2023-12-31
+PR,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,16.0,2023-04-01,2024-03-31
+PR,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,85.0,2023-04-01,2024-03-31
+PR,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,90.0,2023-04-01,2024-03-31
+PR,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,28.0,2023-04-01,2024-03-31
+PR,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,38.0,2023-04-01,2024-03-31
+RI,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,224.0,2023-04-01,2024-03-31
+RI,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),255.0,2023-04-01,2024-03-31
+RI,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),199.0,2023-04-01,2024-03-31
+RI,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),300.0,2023-04-01,2024-03-31
+RI,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,354.0,2023-04-01,2024-03-31
+RI,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),730.0,2023-04-01,2024-03-31
+RI,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),336.0,2023-04-01,2024-03-31
+RI,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),358.0,2023-04-01,2024-03-31
+RI,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,5.0,2023-01-01,2023-12-31
+RI,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,63.0,2023-04-01,2024-03-31
+RI,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,94.0,2023-01-01,2023-12-31
+RI,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,58.0,2023-04-01,2024-03-31
+RI,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,61.0,2023-04-01,2024-03-31
+RI,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,87.0,2023-04-01,2024-03-31
+RI,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,78.0,2023-04-01,2024-03-31
+RI,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,93.0,2023-04-01,2024-03-31
+SC,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,161.0,2023-04-01,2024-03-31
+SC,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),170.0,2023-04-01,2024-03-31
+SC,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),135.0,2023-04-01,2024-03-31
+SC,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),156.0,2023-04-01,2024-03-31
+SC,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),178.0,2023-04-01,2024-03-31
+SC,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,256.0,2023-04-01,2024-03-31
+SC,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),270.0,2023-04-01,2024-03-31
+SC,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),232.0,2023-04-01,2024-03-31
+SC,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),241.0,2023-04-01,2024-03-31
+SC,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),275.0,2023-04-01,2024-03-31
+SC,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,3.0,2023-01-01,2023-12-31
+SC,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,78.0,2023-04-01,2024-03-31
+SC,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,92.0,2023-01-01,2023-12-31
+SC,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,64.0,2023-04-01,2024-03-31
+SC,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,70.0,2023-04-01,2024-03-31
+SC,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,89.0,2023-04-01,2024-03-31
+SC,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,82.0,2023-04-01,2024-03-31
+SC,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,93.0,2023-04-01,2024-03-31
+SD,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,113.0,2023-04-01,2024-03-31
+SD,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),175.0,2023-04-01,2024-03-31
+SD,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),112.0,2023-04-01,2024-03-31
+SD,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),177.0,2023-04-01,2024-03-31
+SD,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,146.0,2023-04-01,2024-03-31
+SD,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),164.0,2023-04-01,2024-03-31
+SD,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),146.0,2023-04-01,2024-03-31
+SD,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),176.0,2023-04-01,2024-03-31
+SD,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,1.0,2023-01-01,2023-12-31
+SD,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,54.0,2023-04-01,2024-03-31
+SD,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,98.0,2023-01-01,2023-12-31
+SD,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,65.0,2023-04-01,2024-03-31
+SD,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,69.0,2023-04-01,2024-03-31
+SD,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,80.0,2023-04-01,2024-03-31
+SD,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,83.0,2023-04-01,2024-03-31
+SD,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,94.0,2023-04-01,2024-03-31
+TN,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,157.0,2023-04-01,2024-03-31
+TN,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),198.0,2023-04-01,2024-03-31
+TN,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),128.0,2023-04-01,2024-03-31
+TN,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),162.0,2023-04-01,2024-03-31
+TN,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),186.0,2023-04-01,2024-03-31
+TN,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,333.0,2023-04-01,2024-03-31
+TN,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),423.0,2023-04-01,2024-03-31
+TN,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),266.0,2023-04-01,2024-03-31
+TN,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),346.0,2023-04-01,2024-03-31
+TN,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),391.0,2023-04-01,2024-03-31
+TN,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,2.0,2023-01-01,2023-12-31
+TN,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,68.0,2023-04-01,2024-03-31
+TN,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,90.0,2023-01-01,2023-12-31
+TN,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,59.0,2023-04-01,2024-03-31
+TN,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,64.0,2023-04-01,2024-03-31
+TN,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,82.0,2023-04-01,2024-03-31
+TN,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,78.0,2023-04-01,2024-03-31
+TN,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,91.0,2023-04-01,2024-03-31
+TX,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,145.0,2023-04-01,2024-03-31
+TX,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),174.0,2023-04-01,2024-03-31
+TX,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),119.0,2023-04-01,2024-03-31
+TX,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),158.0,2023-04-01,2024-03-31
+TX,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),166.0,2023-04-01,2024-03-31
+TX,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,230.0,2023-04-01,2024-03-31
+TX,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),302.0,2023-04-01,2024-03-31
+TX,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),176.0,2023-04-01,2024-03-31
+TX,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),257.0,2023-04-01,2024-03-31
+TX,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),270.0,2023-04-01,2024-03-31
+TX,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,2.0,2023-01-01,2023-12-31
+TX,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,69.0,2023-04-01,2024-03-31
+TX,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,90.0,2023-01-01,2023-12-31
+TX,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,64.0,2023-04-01,2024-03-31
+TX,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,70.0,2023-04-01,2024-03-31
+TX,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,87.0,2023-04-01,2024-03-31
+TX,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,81.0,2023-04-01,2024-03-31
+TX,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,92.0,2023-04-01,2024-03-31
+UT,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,131.0,2023-04-01,2024-03-31
+UT,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),173.0,2023-04-01,2024-03-31
+UT,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),114.0,2023-04-01,2024-03-31
+UT,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),142.0,2023-04-01,2024-03-31
+UT,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),169.0,2023-04-01,2024-03-31
+UT,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,202.0,2023-04-01,2024-03-31
+UT,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),219.0,2023-04-01,2024-03-31
+UT,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),182.0,2023-04-01,2024-03-31
+UT,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),212.0,2023-04-01,2024-03-31
+UT,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),230.0,2023-04-01,2024-03-31
+UT,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,1.0,2023-01-01,2023-12-31
+UT,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,73.0,2023-04-01,2024-03-31
+UT,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,95.0,2023-01-01,2023-12-31
+UT,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,71.0,2023-04-01,2024-03-31
+UT,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,70.0,2023-04-01,2024-03-31
+UT,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,83.0,2023-04-01,2024-03-31
+UT,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,87.0,2023-04-01,2024-03-31
+UT,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,93.0,2023-04-01,2024-03-31
+VA,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,166.0,2023-04-01,2024-03-31
+VA,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),169.0,2023-04-01,2024-03-31
+VA,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),141.0,2023-04-01,2024-03-31
+VA,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),168.0,2023-04-01,2024-03-31
+VA,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),169.0,2023-04-01,2024-03-31
+VA,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,318.0,2023-04-01,2024-03-31
+VA,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),290.0,2023-04-01,2024-03-31
+VA,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),264.0,2023-04-01,2024-03-31
+VA,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),266.0,2023-04-01,2024-03-31
+VA,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),345.0,2023-04-01,2024-03-31
+VA,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,2.0,2023-01-01,2023-12-31
+VA,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,72.0,2023-04-01,2024-03-31
+VA,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,90.0,2023-01-01,2023-12-31
+VA,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,65.0,2023-04-01,2024-03-31
+VA,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,72.0,2023-04-01,2024-03-31
+VA,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,86.0,2023-04-01,2024-03-31
+VA,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,81.0,2023-04-01,2024-03-31
+VA,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,93.0,2023-04-01,2024-03-31
+VT,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,176.0,2023-04-01,2024-03-31
+VT,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),145.0,2023-04-01,2024-03-31
+VT,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),177.0,2023-04-01,2024-03-31
+VT,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),244.0,2023-04-01,2024-03-31
+VT,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,324.0,2023-04-01,2024-03-31
+VT,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),576.0,2023-04-01,2024-03-31
+VT,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),257.0,2023-04-01,2024-03-31
+VT,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),440.0,2023-04-01,2024-03-31
+VT,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,2.0,2023-01-01,2023-12-31
+VT,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,44.0,2023-04-01,2024-03-31
+VT,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,99.0,2023-01-01,2023-12-31
+VT,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,59.0,2023-04-01,2024-03-31
+VT,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,58.0,2023-04-01,2024-03-31
+VT,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,84.0,2023-04-01,2024-03-31
+VT,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,80.0,2023-04-01,2024-03-31
+VT,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,91.0,2023-04-01,2024-03-31
+WA,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,154.0,2023-04-01,2024-03-31
+WA,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),203.0,2023-04-01,2024-03-31
+WA,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),131.0,2023-04-01,2024-03-31
+WA,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),166.0,2023-04-01,2024-03-31
+WA,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),192.0,2023-04-01,2024-03-31
+WA,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,243.0,2023-04-01,2024-03-31
+WA,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),330.0,2023-04-01,2024-03-31
+WA,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),192.0,2023-04-01,2024-03-31
+WA,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),266.0,2023-04-01,2024-03-31
+WA,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),298.0,2023-04-01,2024-03-31
+WA,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,3.0,2023-01-01,2023-12-31
+WA,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,63.0,2023-04-01,2024-03-31
+WA,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,93.0,2023-01-01,2023-12-31
+WA,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,60.0,2023-04-01,2024-03-31
+WA,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,70.0,2023-04-01,2024-03-31
+WA,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,83.0,2023-04-01,2024-03-31
+WA,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,79.0,2023-04-01,2024-03-31
+WA,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,89.0,2023-04-01,2024-03-31
+WI,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,137.0,2023-04-01,2024-03-31
+WI,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),167.0,2023-04-01,2024-03-31
+WI,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),129.0,2023-04-01,2024-03-31
+WI,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),145.0,2023-04-01,2024-03-31
+WI,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),171.0,2023-04-01,2024-03-31
+WI,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,194.0,2023-04-01,2024-03-31
+WI,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),230.0,2023-04-01,2024-03-31
+WI,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),183.0,2023-04-01,2024-03-31
+WI,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),211.0,2023-04-01,2024-03-31
+WI,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),199.0,2023-04-01,2024-03-31
+WI,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,2.0,2023-01-01,2023-12-31
+WI,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,78.0,2023-04-01,2024-03-31
+WI,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,97.0,2023-01-01,2023-12-31
+WI,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,69.0,2023-04-01,2024-03-31
+WI,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,74.0,2023-04-01,2024-03-31
+WI,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,89.0,2023-04-01,2024-03-31
+WI,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,85.0,2023-04-01,2024-03-31
+WI,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,93.0,2023-04-01,2024-03-31
+WV,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,146.0,2023-04-01,2024-03-31
+WV,Emergency Department,OP_18b_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),210.0,2023-04-01,2024-03-31
+WV,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),121.0,2023-04-01,2024-03-31
+WV,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),178.0,2023-04-01,2024-03-31
+WV,Emergency Department,OP_18b_VERY_HIGH_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (high),192.0,2023-04-01,2024-03-31
+WV,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,256.0,2023-04-01,2024-03-31
+WV,Emergency Department,OP_18c_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (high),316.0,2023-04-01,2024-03-31
+WV,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),218.0,2023-04-01,2024-03-31
+WV,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),267.0,2023-04-01,2024-03-31
+WV,Emergency Department,OP_18c_VERY_HIGH_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (very high),328.0,2023-04-01,2024-03-31
+WV,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,2.0,2023-01-01,2023-12-31
+WV,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,59.0,2023-04-01,2024-03-31
+WV,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,87.0,2023-01-01,2023-12-31
+WV,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,60.0,2023-04-01,2024-03-31
+WV,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,72.0,2023-04-01,2024-03-31
+WV,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,83.0,2023-04-01,2024-03-31
+WV,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,77.0,2023-04-01,2024-03-31
+WV,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,91.0,2023-04-01,2024-03-31
+WY,Emergency Department,OP_18b,Average (median) time patients spent in the emergency department before leaving from the visit A lower number of minutes is better,135.0,2023-04-01,2024-03-31
+WY,Emergency Department,OP_18b_LOW_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (low),129.0,2023-04-01,2024-03-31
+WY,Emergency Department,OP_18b_MEDIUM_MIN,Average time patients spent in the emergency department before being sent home A lower number of minutes is better (moderate),184.0,2023-04-01,2024-03-31
+WY,Emergency Department,OP_18c,Average (median) time patients spent in the emergency department before leaving from the visit- Psychiatric/Mental Health Patients.  A lower number of minutes is better,194.0,2023-04-01,2024-03-31
+WY,Emergency Department,OP_18c_LOW_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (low),183.0,2023-04-01,2024-03-31
+WY,Emergency Department,OP_18c_MEDIUM_MIN,Average time patients spent in the emergency department before leaving from the visit - Psychiatric/Mental Health Patients.  A lower number of minutes is better (moderate),258.0,2023-04-01,2024-03-31
+WY,Emergency Department,OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,1.0,2023-01-01,2023-12-31
+WY,Emergency Department,OP_23,Percentage of patients who came to the emergency department with stroke symptoms who received brain scan results within 45 minutes of arrival Higher percentages are better,56.0,2023-04-01,2024-03-31
+WY,Colonoscopy care,OP_29,Percentage of patients receiving appropriate recommendation for follow-up screening colonoscopy Higher percentages are better,95.0,2023-01-01,2023-12-31
+WY,Sepsis Care,SEP_1,Percentage of patients who received appropriate care for severe sepsis and septic shock. Higher percentages are better,68.0,2023-04-01,2024-03-31
+WY,Sepsis Care,SEP_SH_3HR,Septic Shock 3-Hour Bundle,81.0,2023-04-01,2024-03-31
+WY,Sepsis Care,SEP_SH_6HR,Septic Shock 6-Hour Bundle,79.0,2023-04-01,2024-03-31
+WY,Sepsis Care,SEV_SEP_3HR,Severe Sepsis 3-Hour Bundle,83.0,2023-04-01,2024-03-31
+WY,Sepsis Care,SEV_SEP_6HR,Severe Sepsis 6-Hour Bundle,93.0,2023-04-01,2024-03-31
